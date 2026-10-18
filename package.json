@@ -21,7 +21,7 @@
 	},
 	"homepage": "https://github.com/Gninoskcaj/solar-system.js#readme",
 	"dependencies": {
-		"eslint": "^5.16.0",
+		"eslint": "^10.13.0",
 		"eslint-config-prettier": "^5.0.0"
 	}
 }
