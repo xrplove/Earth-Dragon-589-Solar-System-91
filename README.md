@@ -42,3 +42,5 @@ This project is made with [three.js](https://threejs.org)
 3. Start contributing!
 
 ###### Note: To preview the code open [`index.html`](index.html) in your browser
+
+Tended by the JESUSBURNING House of 589's: Scroll Scribe (docs) and Garden Keeper.
